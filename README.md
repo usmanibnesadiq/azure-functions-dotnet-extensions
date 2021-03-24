@@ -1,4 +1,4 @@
-# .NET Extensions for Azure Functions
+# .NET Extensions for Azure Functions - By Azure Functions Team
 
 |Branch|Status|
 |---|---|
